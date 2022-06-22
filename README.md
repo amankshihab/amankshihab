@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aman K. Shihab</h1>
 <h3 align="center">Computer Science Student from India! Passionate about deep learning & machine learning</h3>
 
-- 🔭 I’m currently working on **A Student Profile Portal**
+- 🔭 I’m currently working on **Physiotherapy pose detection and correction using deep learning**
 
 - 🌱 I’m currently learning **Deep Learning & Machine Learning**
 
