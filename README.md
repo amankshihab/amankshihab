@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Aman K. Shihab</h1>
-<h3 align="center">A passionate web developer and aspiring machine learning engineer from India!</h3>
+<h3 align="center">Computer Science Student from India! Passionate about deep learning & machine learning</h3>
 
 - 🔭 I’m currently working on **A Student Profile Portal**
 
-- 🌱 I’m currently learning **Data Science & Machine Learning ,React**
+- 🌱 I’m currently learning **Deep Learning & Machine Learning**
 
-- 💬 Ask me about **Django, Python, Machine Learning**
+- 💬 Ask me about **Django, Python, Machine Learning, Deep Learning**
 
 - 📫 How to reach me **amanshihab276@gmail.com**
 
